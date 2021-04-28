@@ -2,7 +2,7 @@ from drf_basics.settings.base import *
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['68.183.80.25']
 
 DATABASES = {
     'default': {
